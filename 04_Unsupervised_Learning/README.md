@@ -44,5 +44,5 @@ Where sigma_maj2 is the variance along the major axis and sigma_min2 is the vari
 area of hollows= area of bounding poly-area of object
 <br>
 The area of the bounding polygon is found as a side result of the computation to find the maximum length. Each individual length computation yields a pair of calipers to the object orientated at every 5 degrees. The object is propagated into an image containing the union of these calipers to obtain an image of the bounding polygon.
-<br>
+<br><br>
 NUMBER OF CLASSES 4 OPEL, SAAB, BUS, VAN
