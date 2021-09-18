@@ -46,3 +46,17 @@ area of hollows= area of bounding poly-area of object
 The area of the bounding polygon is found as a side result of the computation to find the maximum length. Each individual length computation yields a pair of calipers to the object orientated at every 5 degrees. The object is propagated into an image containing the union of these calipers to obtain an image of the bounding polygon.
 <br><br>
 NUMBER OF CLASSES 4 OPEL, SAAB, BUS, VAN
+<br>
+<h1> CONTEXT </h1>
+The purpose is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.
+<br>
+<h1> OBJECTIVE </h1>
+Apply dimensionality reduction technique – PCA and train a model using principle components instead of training the model using just the raw data.
+Data Preprocessing
+<ol> <li> Understanding the Attributes </li>
+<li> Split the data into train and test </li>
+<li> Train a Support vector machine using the train set and get the accuracy on the test set </li>
+<li> Perform K-fold cross validation and get the cross validation score of the model </li>
+<li> Use PCA from Scikit learn, extract Principal Components that capture about 95% of the variance in the data</li>
+<li> Repeat steps 3,4 and 5 but this time, use Principal Components instead of the original data. And the accuracy score should be on the same rows of test data that were used earlier.</li>
+<li> Compare the accuracy scores and cross validation scores of Support vector machines – one trained using raw data and the other using Principal Components, and mention your findings</li>
