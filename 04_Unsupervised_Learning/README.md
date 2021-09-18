@@ -9,4 +9,4 @@ When a user or practitioner refers to “object recognition“, they often mean 
 ... we will be using the term object recognition broadly to encompass both image classification (a task requiring an algorithm to determine what object classes are present in the image) as well as object detection (a task requiring an algorithm to localize all objects present in the image) ...   — ImageNet Large Scale Visual Recognition Challenge, 2015.
 <br> <br>
 From this breakdown, we can see that object recognition refers to a suite of challenging computer vision tasks <br>
-![Image Identification](https://github.com/vvenkatac/AI-ML-Projects/blob/main/04_Unsupervised_Learning/Object_Identification.png?raw=true)
+![Image Identification](./vvenkatac/AI-ML-Projects/04_Unsupervised_Learning/Object_Identification.png)
