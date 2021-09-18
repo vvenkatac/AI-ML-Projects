@@ -3,9 +3,6 @@ Concrete is the most important material in civil engineering. The concrete compr
 
 This modeling efffort uses the concrete mix data provided herewith and tries to predict the strength of high performance concrete using Machine Learning.  
 
-<h3> OBJECTIVE </h3>
-Objective is to build a ML model, learning using historical data and modeling for predicting the strength of high performance concrete. Feature Engineering techniques will be used to determine the optimal set of concrete data features  
-<br>
 <h3> Data Description </h3> 
 
 The actual concrete compressive strength (MPa) for a given mixture under a
@@ -21,3 +18,6 @@ specific age (days) was determined from laboratory. Data is in raw form (not sca
 <li> Fine Aggregate : measured in kg in a m3 mixture </li>
 <li> Age : day (1~365) </li>
 <li> Concrete compressive strength measured in MPa </li>
+<h3> OBJECTIVE </h3>
+Objective is to build a ML model, learning using historical data and modeling for predicting the strength of high performance concrete. Feature Engineering techniques will be used to determine the optimal set of concrete data features  
+<br>
