@@ -10,6 +10,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * 3Ms and Distribution of Charges
       * Distribution of Charges by # of Children
       * Distribution of BMI of Female with # Children
+      * 
 ### 2. Supervised Machine Learning
 * Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
     * Project link: [Supervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/02_Supervised%20Machine%20Learning)
@@ -18,6 +19,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * Personal Loan vs Income
          * Model Accuracy Scores Comparison <br>
          ![](Images_Main/SL_Image.png)
+         
 ### 3. Ensemble Techniques
 * Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
     * Project link: [Ensemble Techniques](https://github.com/vvenkatac/AI-ML-Projects/tree/main/03_Ensemble_Techniques)
@@ -51,6 +53,14 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * Model Comparison <br>
          ![](Images_Main/fmst_Image2.PNG) 
  
+### 6. Recommendation Systems
+* Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
+     * Project link: [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
+      
+         * Project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative filtering filtering models were used and evaluated to recommend top-10 product for a user.
+         * Summary 
+         ![](Images_Main/Recommend_Image.PNG)       
+         
 ### 6. Recommendation Systems
 * Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
      * Project link: [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
