@@ -73,3 +73,17 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * SGD and Adam Optimization
          * Visualizing image data <br>
          ![](Images_Main/NN_Image.PNG)       
+
+### 8. Computer Vision 
+* Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
+      * Project link: [Computer Vision](https://github.com/vvenkatac/AI-ML-Projects/tree/main/08_Computer%20Vision)
+
+            * Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+* _**Image**_ <br>
+![](Images_Main/CV_Image1.PNG)   
+
+* _**Face Detected(with Mask)**_ <br>
+![](Images_Main/CV_Image2.PNG)   
+
+* _**Face & Mask**_ <br>
+![](Images_Main/CV_Image3.PNG)   
