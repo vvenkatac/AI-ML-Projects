@@ -11,9 +11,9 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * Distribution of Charges by # of Children
       * Distribution of BMI of Female with # Children
 ### 2. Supervised Machine Learning
-Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
-Project link: Supervised Machine Learning
-
-Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
-Personal Loan vs Income
-Model Scores 
+* Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
+    * Project link: [Supervised Machine Learning](
+         *Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select   the best performing one.
+         * Personal Loan vs Income
+         * Model Accuracy Scores Comparison 
+         
