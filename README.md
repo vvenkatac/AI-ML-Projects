@@ -35,7 +35,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * PCA 
          * K-fold cross-validation <br>
          ![](Images_Main/USL_Image.PNG)
- ### 4. Unsupervised Learning
+ ### 5. Feature Engineering Techniques
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
     * Project link: [Unsupervised Machine Learning](
          * Leveraged concrete mix data to build a ML model to predict the strength of high performance concrete mix. Feature Engineering is used to determine the optimal set of concrete data features and Regression models such as Decision Trees and Random Forest techniques are used in the  modeling. 
