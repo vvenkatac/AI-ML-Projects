@@ -71,5 +71,5 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * TensorFlow
          * ReLu and Softmax
          * SGD and Adam Optimization
-         * Visualizing image data
+         * Visualizing image data <br>
          ![](Images_Main/NN_Image.PNG)       
