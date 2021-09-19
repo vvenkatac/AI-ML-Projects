@@ -40,7 +40,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
          ![](Images_Main/USL_Image.PNG)
  ### 5. Feature Engineering Techniques
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
-    * Project link: [Unsupervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/05_Featurization%2C%20Model%20Selection%20%26%20Tuning)
+    * Project link: [Feature Engineering](https://github.com/vvenkatac/AI-ML-Projects/tree/main/05_Featurization%2C%20Model%20Selection%20%26%20Tuning)
          
          * Leveraged concrete mix data to build a ML model to predict the strength of high performance concrete mix. Feature Engineering is used to determine the optimal set of concrete data features and Regression models such as Decision Trees and Random Forest techniques are used in the  modeling. 
          * Data Analysis <br>
