@@ -53,7 +53,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
  
 ### 6. Recommendation Systems
 * Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
-     * Project link: Recommendation Systems
+     * Project link: [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
       
          * Project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative filtering filtering models were used and evaluated to recommend top-10 product for a user.
          * Summary 
