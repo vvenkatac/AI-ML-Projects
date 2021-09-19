@@ -10,7 +10,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * 3Ms and Distribution of Charges
       * Distribution of Charges by # of Children
       * Distribution of BMI of Female with # Children
-      * 
+      
 ### 2. Supervised Machine Learning
 * Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
     * Project link: [Supervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/02_Supervised%20Machine%20Learning)
@@ -61,10 +61,15 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * Summary 
          ![](Images_Main/Recommend_Image.PNG)       
          
-### 6. Recommendation Systems
-* Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
-     * Project link: [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
+### 7. Neural Networks
+* Covers Displaying images frm the dataset, One hot Encoding, Neural Network Architecture, SGD Optimization, Adam Optimization, Visualizations of predictions  
+     * Project link: [Neural Networks](https://github.com/vvenkatac/AI-ML-Projects/tree/main/07_Neural%20Networks)
       
-         * Project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative filtering filtering models were used and evaluated to recommend top-10 product for a user.
-         * Summary 
-         ![](Images_Main/Recommend_Image.PNG)       
+         * Project involved reading data from h5py file, normalizing the train/test data, One hot encoding the labels, NN architecure definition using TensorFlow and activation functions, Hyper parameter tuning, Activation and Loss Functions.
+         * NN archietcure
+         * One hot encoding labels
+         * TensorFlow
+         * ReLu and Softmax
+         * SGD and Adam Optimization
+         * Visualizing image data
+         ![](Images_Main/NN_Image.PNG)       
