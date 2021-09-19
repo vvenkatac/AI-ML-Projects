@@ -50,4 +50,11 @@ Projects completed in Artificial Intelligence and Machine Learning.
          * Feature Engineering 
          * Model Comparison <br>
          ![](Images_Main/fmst_Image2.PNG) 
-                  
+ 
+### 6. Recommendation Systems
+* Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
+     * Project link: Recommendation Systems
+      
+         * Project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative filtering filtering models were used and evaluated to recommend top-10 product for a user.
+         * Summary 
+         ![](Images_Main/Recommend_Image.PNG)       
