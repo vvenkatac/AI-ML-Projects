@@ -16,4 +16,4 @@ Projects completed in Artificial Intelligence and Machine Learning.
          *Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select   the best performing one.
          * Personal Loan vs Income
          * Model Accuracy Scores Comparison 
-         
+         ![](Images_Main/SL_Image.jpg)
