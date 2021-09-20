@@ -79,13 +79,13 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * Project link: [Computer Vision](https://github.com/vvenkatac/AI-ML-Projects/tree/main/08_Computer%20Vision)
             * Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
 * _**Image**_ <br>
-![](Images_Main/CV_Image1.PNG)   
+         ![](Images_Main/CV_Image1.PNG)   
 
 * _**Face Detected(with Mask)**_ <br>
-![](Images_Main/CV_Image2.PNG)   
+         ![](Images_Main/CV_Image2.PNG)   
 
 * _**Face & Mask**_ <br>
-![](Images_Main/CV_Image3.PNG)   
+         ![](Images_Main/CV_Image3.PNG)   
 
 ### 9. Advanced Computer Vision 
 Covers Face Recognition usign Aligned Face Dataset, VGG Network Model, Dimensionality Reduction using PCA and a SVM Classifier
