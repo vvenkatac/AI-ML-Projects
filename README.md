@@ -37,50 +37,50 @@ Projects completed in Artificial Intelligence and Machine Learning.
 ### 4. Unsupervised Learning
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
 
-    * Project link: [Unsupervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/04_Unsupervised_Learning)
+    * **Project link:** [Unsupervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/04_Unsupervised_Learning)
          
          * Leveraged silhouette vehicle data to  classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles. Principal Component Analysis and K-fold cross validation techniques were used.
-         * Correlation Analysis
-         * SVM 
-         * PCA 
-         * K-fold cross-validation <br>
+         * ***Correlation Analysis***
+         * ***SVM*** 
+         * ***PCA*** 
+         * ***K-fold cross-validation*** <br>
          ![](Images_Main/USL_Image.PNG)
          
  ### 5. Feature Engineering Techniques
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
 
-    * Project link: [Feature Engineering](https://github.com/vvenkatac/AI-ML-Projects/tree/main/05_Featurization%2C%20Model%20Selection%20%26%20Tuning)
+    * **Project link:** [Feature Engineering](https://github.com/vvenkatac/AI-ML-Projects/tree/main/05_Featurization%2C%20Model%20Selection%20%26%20Tuning)
          
          * Leveraged concrete mix data to build a ML model to predict the strength of high performance concrete mix. Feature Engineering is used to determine the optimal set of concrete data features and Regression models such as Decision Trees and Random Forest techniques are used in the  modeling. 
-         * Data Analysis <br>
+         * ***Data Analysis*** <br>
          ![](Images_Main/fmst_Image1.PNG) <br>
-         * Decision Trees
-         * Random Gorest
-         * Feature Engineering 
-         * Model Comparison <br>
+         * ***Decision Trees***
+         * ***Random Gorest***
+         * ***Feature Engineering*** 
+         * ***Model Comparison*** <br>
          ![](Images_Main/fmst_Image2.PNG) 
  
 ### 6. Recommendation Systems
 * Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
 
-     * Project link: [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
+     * **Project link:** [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
       
          * Project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative filtering filtering models were used and evaluated to recommend top-10 product for a user.
-         * Summary 
+         * ***Summary*** 
          ![](Images_Main/Recommend_Image.PNG)       
          
 ### 7. Neural Networks
 * Covers Displaying images frm the dataset, One hot Encoding, Neural Network Architecture, SGD Optimization, Adam Optimization, Visualizations of predictions  
 
-     * Project link: [Neural Networks](https://github.com/vvenkatac/AI-ML-Projects/tree/main/07_Neural%20Networks)
+     * **Project link:** [Neural Networks](https://github.com/vvenkatac/AI-ML-Projects/tree/main/07_Neural%20Networks)
       
          * Project involved reading data from h5py file, normalizing the train/test data, One hot encoding the labels, NN architecure definition using TensorFlow and activation functions, Hyper parameter tuning, Activation and Loss Functions.
-         * NN archietcure
-         * One hot encoding labels
-         * TensorFlow
-         * ReLu and Softmax
-         * SGD and Adam Optimization
-         * Visualizing image data <br>
+         * ***NN archietcure***
+         * ***One hot encoding labels***
+         * ***TensorFlow***
+         * ***ReLu and Softmax***
+         * ***SGD and Adam Optimization***
+         * ***Visualizing image data*** <br>
          ![](Images_Main/NN_Image.PNG)       
 
 ### 8. Computer Vision 
