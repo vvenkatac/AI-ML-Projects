@@ -107,3 +107,16 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * Aligned Faces Dataset from Pinterest (10k+ images of 100 celebs) - Face recognition model recognises similar faces with an accuracy of 97% and F1 score of 96%.
       * Faces Identified - Results <br>
       ![](Images_Main/ACV_Image.PNG)
+
+### 10. NLP Sentiment Analaysis
+* Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
+
+   * Project link: [NLP Sentiment Analysis](https://github.com/vvenkatac/AI-ML-Projects/tree/main/10_NLP_Sentiment_Analysis)
+
+      * The objective of this project is to build a text classification model that analyses the customer's sentiments based on their reviews in the IMDB database. The model uses a complex deep learning model to build an embedding layer followed by a classification algorithm to analyze the sentiment of the customers.
+      * Model <br>
+      ![](Images_Main/NLP1_Image1.PNG)
+     
+      * Results <br>
+      ![](Images_Main/NLP1_Image2.PNG)
+ 
