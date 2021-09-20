@@ -84,7 +84,7 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * Face Detected(with Mask)   
       ![](Images_Main/CV_Image2.PNG)   
       
-      * Face & Mask 
+      * Face & Mask <br>
       ![](Images_Main/CV_Image3.PNG)
          
 ### 9. Advanced Computer Vision 
