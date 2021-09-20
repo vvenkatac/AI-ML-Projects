@@ -75,22 +75,21 @@ Projects completed in Artificial Intelligence and Machine Learning.
          ![](Images_Main/NN_Image.PNG)       
 
 ### 8. Computer Vision 
-* Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
-      * Project link: [Computer Vision](https://github.com/vvenkatac/AI-ML-Projects/tree/main/08_Computer%20Vision)
+* Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet.
+   * Project link: [Computer Vision](https://github.com/vvenkatac/AI-ML-Projects/tree/main/08_Computer%20Vision)
+      * Project involved reading data from h5py file, normalizing the train/test data, One hot encoding the labels, NN architecure definition using TensorFlow and activation functions, Hyper parameter tuning, Activation and Loss Functions.
+      * Image  
+      ![](Images_Main/CV_Image1.PNG)   
       
-         * Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
-            * Image  
-         ![](Images_Main/CV_Image1.PNG)   
-
-            * Face Detected(with Mask)   
-         ![](Images_Main/CV_Image2.PNG)   
-
-            * Face & Mask 
-         ![](Images_Main/CV_Image3.PNG)   
-
+      * Face Detected(with Mask)   
+      ![](Images_Main/CV_Image2.PNG)   
+      
+      * Face & Mask 
+      ![](Images_Main/CV_Image3.PNG)
+         
 ### 9. Advanced Computer Vision 
-Covers Face Recognition usign Aligned Face Dataset, VGG Network Model, Dimensionality Reduction using PCA and a SVM Classifier
-Project link: [Face Recognition](https://github.com/vvenkatac/AI-ML-Projects/tree/main/09_Advanced%20Computer%20Vision)
+* Covers Face Recognition usign Aligned Face Dataset, VGG Network Model, Dimensionality Reduction using PCA and a SVM Classifier.
+   * Project link: [Face Recognition](https://github.com/vvenkatac/AI-ML-Projects/tree/main/09_Advanced%20Computer%20Vision)
 
-  Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+      * Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
 Aligned Faces Dataset from Pinterest (10k+ images of 100 celebs) - Face recognition model recognises similar faces with an accuracy of 97% and F1 score of 96%.
