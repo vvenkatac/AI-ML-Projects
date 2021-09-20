@@ -136,5 +136,5 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * Display Confusion Matrix <br>
       ![](Images_Main/NLP2_Image3.PNG)
 
-      * Evaluate model <br>
-      ![](Images_Main/NLP2_Image4.PNG)
+      * Evaluate model <br>      
+      ![](Images_Main/NLP2_ Image4.PNG)
