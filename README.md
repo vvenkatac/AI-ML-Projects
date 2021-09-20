@@ -86,3 +86,10 @@ Projects completed in Artificial Intelligence and Machine Learning.
 
 * _**Face & Mask**_ <br>
 ![](Images_Main/CV_Image3.PNG)   
+
+### 9. Advanced Computer Vision 
+Covers Face Recognition usign Aligned Face Dataset, VGG Network Model, Dimensionality Reduction using PCA and a SVM Classifier
+Project link: [Face Recognition](https://github.com/vvenkatac/AI-ML-Projects/tree/main/09_Advanced%20Computer%20Vision)
+
+  Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+Aligned Faces Dataset from Pinterest (10k+ images of 100 celebs) - Face recognition model recognises similar faces with an accuracy of 97% and F1 score of 96%.
