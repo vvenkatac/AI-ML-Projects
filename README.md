@@ -120,3 +120,20 @@ Projects completed in Artificial Intelligence and Machine Learning.
       * Results <br>
       ![](Images_Main/NLP1_Image2.PNG)
  
+### 11. NLP Sarcasm Detection
+* Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
+
+   * Project link: NLP Sarcasm Detection
+
+      * The goal of this hands-on project is to analyse the headlines of the articles from news sources and detect whether they are sarcastic or not.
+      * Display WordCloud of Sarcastic & Non Sarcastic words
+      ![](Images_Main/NLP2_Image1.PNG)
+      
+      * Build a NLP Sequential Model <br>
+      ![](Images_Main/NLP2_Image2.PNG)
+      
+      * Display Confusion Matrix <br>
+      ![](Images_Main/NLP2_Image3.PNG)
+
+      * Evaluate model <br>
+      ![](Images_Main/NLP2_Image4.PNG)
