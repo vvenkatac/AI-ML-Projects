@@ -127,13 +127,13 @@ Projects completed in Artificial Intelligence and Machine Learning.
 
       * The goal of this hands-on project is to analyse the headlines of the articles from news sources and detect whether they are sarcastic or not.
          * Display WordCloud of Sarcastic & Non Sarcastic words
-         ![](Images_Main/NLP2_Image1.PNG)
+         ![](Images_Main/NLP2_Image 1.PNG)
       
          * Build a NLP Sequential Model <br>
-         ![](Images_Main/NLP2_Image2.PNG)
+         ![](Images_Main/NLP2_Image 2.PNG)
       
          * Display Confusion Matrix <br>
-         ![](Images_Main/NLP2_Image3.PNG)
+         ![](Images_Main/NLP2_Image 3.PNG)
 
          * Evaluate model <br>
-         ![](Images_Main/NLP2_Image4.PNG)
+         ![](Images_Main/NLP2_Image 4.PNG)
