@@ -1,5 +1,5 @@
 # AI-ML-Projects
-Projects completed in Artificial Intelligence and Machine Learning.
+Projects completed in Artificial Intelligence and Machine Learning as a part of PGP Program from UT Austin, Texas and Great Lakes, India.
 ## Project Done
 ### 1. Statistical Learning
 * Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
