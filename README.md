@@ -1,7 +1,7 @@
 # AI-ML-Projects
-Projects completed in Artificial Intelligence and Machine Learning as a part of PGP Program from UT Austin, Texas and Great Lakes, India.
+Projects completed in Artificial Intelligence and Machine Learning undertaken as Freelancing Opportunities.
 ## Project Done
-### 1. Statistical Learning
+### 1. Data Visualization of Customer health records
 * Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
 
     * **Project link:** [Applied Stats](https://github.com/vvenkatac/AI-ML-Projects/tree/main/01_Applied_Stats)  
@@ -12,7 +12,7 @@ Projects completed in Artificial Intelligence and Machine Learning as a part of 
       * Distribution of Charges by # of Children
       * Distribution of BMI of Female with # Children
       
-### 2. Supervised Machine Learning
+### 2. Classification techniques for Customer Loan Data Segmentation
 * Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
 
     * **Project link:** [Supervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/02_Supervised%20Machine%20Learning)
@@ -22,7 +22,7 @@ Projects completed in Artificial Intelligence and Machine Learning as a part of 
          * ***Model Accuracy Scores Comparison*** <br>
          ![](Images_Main/SL_Image.png)
          
-### 3. Ensemble Techniques
+### 3. Classification and Ensemble techniques for Customer Term Deposit prediction
 * Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
 
     * **Project link:** [Ensemble Techniques](https://github.com/vvenkatac/AI-ML-Projects/tree/main/03_Ensemble_Techniques)
@@ -34,7 +34,7 @@ Projects completed in Artificial Intelligence and Machine Learning as a part of 
          * ***Model Accuracy Scores Comparison*** <br>
          ![](Images_Main/Ensemble_Image.PNG)
          
-### 4. Unsupervised Learning
+### 4. Classification techniques for vehicles from silhouette data
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
 
     * **Project link:** [Unsupervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/04_Unsupervised_Learning)
@@ -46,7 +46,7 @@ Projects completed in Artificial Intelligence and Machine Learning as a part of 
          * ***K-fold cross-validation*** <br>
          ![](Images_Main/USL_Image.PNG)
          
- ### 5. Feature Engineering Techniques
+ ### 5. Predicting strength and performance of Concrete mix
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
 
     * **Project link:** [Feature Engineering](https://github.com/vvenkatac/AI-ML-Projects/tree/main/05_Featurization%2C%20Model%20Selection%20%26%20Tuning)
@@ -60,7 +60,7 @@ Projects completed in Artificial Intelligence and Machine Learning as a part of 
          * ***Model Comparison*** <br>
          ![](Images_Main/fmst_Image2.PNG) 
  
-### 6. Recommendation Systems
+### 6. Recommending top 10 products for an e-commerce platform 
 * Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
 
      * **Project link:** [Recommendation Systems](https://github.com/vvenkatac/AI-ML-Projects/tree/main/06_Recommendation_Systems)
