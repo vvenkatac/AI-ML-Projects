@@ -21,3 +21,4 @@ Deep dive into the data for valuable insights and conduct:
   <li>Statistical analysis </li>
   <li>Exploratory Data Analysis </li>
   <li>Hypothesis Testing </li> 
+It helps in price optimization to provide better service at cost effective premiums thereby maximizing profits and maintaining customer loyalty. The analsysis also assists with customer segmentation so that insurance products can be better positioned for specific customer expectations. Risk assessment is conducted to assess the individual and group risks so that appropriate costs can be factored while pricing the insurance products.
