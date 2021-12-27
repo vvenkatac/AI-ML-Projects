@@ -7,16 +7,16 @@ It will help in risk assessment to assess the individual and group risks so that
 <h2> About the Data </h2>
 The data in context is about Customer Insurance information. The information contains data such as:
 <ol>
-<li> Age: age of primary beneficiary </li>
-<li>Sex: insurance contractor gender, female, male </li>
-<li>BMI: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9 </li>
-<li>Children: Number of children covered by health insurance / Number of dependents </li>
-<li>Smoker: Smoking </li>
-<li>Region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. </li>
-<li>Charges: Individual medical costs billed by health insurance. </li>
+  <li> Age: age of primary beneficiary </li>
+  <li>Sex: insurance contractor gender, female, male </li>
+  <li>BMI: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9 </li>
+  <li>Children: Number of children covered by health insurance / Number of dependents </li>
+  <li>Smoker: Smoking </li>
+  <li>Region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. </li>
+  <li>Charges: Individual medical costs billed by health insurance. </li>
 <h2> Objective </h2>
 Deep dive into the data for valuable insights and conduct:
 <ol>
-<li>Statistical analysis </li>
-<li>Exploratory Data Analysis </li>
-<li>Hypothesis Testing </li> 
+  <li>Statistical analysis </li>
+  <li>Exploratory Data Analysis </li>
+  <li>Hypothesis Testing </li> 
