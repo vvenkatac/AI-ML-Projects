@@ -3,7 +3,7 @@ Leveraging customer information is of atmost importance for the Helathcare Insur
 It will help in price optimization to provide better service at cost effective premiums thereby maximizing profits and maintaining customer loyalty.
 It will also help with customer segmentation so that insurance products can be better positioned for specific customer expectations.
 It will help in risk assessment to assess the individual and group risks so that appropriate costs can be factored while pricing the insurance products.
-
+<br>
 <h2> About the Data </h2>
 The data in context is about Customer Insurance information. The information contains data such as:
 <ol>
@@ -16,7 +16,6 @@ The data in context is about Customer Insurance information. The information con
   <li>Charges: Individual medical costs billed by health insurance. </li> 
 <br>
 <h2> Objective </h2>
-<br>
 Deep dive into the data for valuable insights and conduct:
 <ol>
   <li>Statistical analysis </li>
