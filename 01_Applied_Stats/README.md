@@ -16,6 +16,7 @@ The data in context is about Customer Insurance information. The information con
   <li>Charges: Individual medical costs billed by health insurance. </li> 
 <br>
 <h2> Objective </h2>
+<br>
 Deep dive into the data for valuable insights and conduct:
 <ol>
   <li>Statistical analysis </li>
