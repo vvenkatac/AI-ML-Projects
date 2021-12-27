@@ -14,7 +14,6 @@ The data in context is about Customer Insurance information. The information con
 <li>Smoker: Smoking </li>
 <li>Region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. </li>
 <li>Charges: Individual medical costs billed by health insurance. </li>
-  
 <h2> Objective </h2>
 Deep dive into the data for valuable insights and conduct:
 <ol>
