@@ -1,5 +1,5 @@
 ## Context:
-Leveraging customer information is of atmost importance for the Healthcare Insurance Sector. Understanding and Exploring the insurance data will provide valuable insights for the Healthcare Insurance business. An Exploratory data analysis is conducted on the given dataset to generate immense value to help make crucial business decisions such as:
+Leveraging customer information is of atmost importance for the Healthcare Insurance Sector. Understanding and Exploring the insurance data will provide valuable insights for the Healthcare Insurance business. It will help in price optimization, customer segmentation and in risk assessment of customer insurance data. An Exploratory data analysis is conducted on the given dataset to generate such immense value to help make crucial business decisions such as:
 
 1. Price optimization to provide better service at cost effective premiums thereby maximizing profits and maintaining customer loyalty.
 2. Customer segmentation so that insurance products can be better positioned for specific customer expectations.
