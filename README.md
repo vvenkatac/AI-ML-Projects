@@ -37,7 +37,7 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
          * ***Model Accuracy Scores Comparison*** <br>
          ![](Images_Main/Ensemble_Image.PNG)
          
-### 4. Classification techniques for vehicles from silhouette data
+### 4. Classification of vehicles from silhouette data
 * Covers Training a SVM on raw data, performing a k-fold cross-validation, exracting principal components, training SVM on principal components, model comparisons 
 
     * **Project link:** [Unsupervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/04_Unsupervised_Learning)
