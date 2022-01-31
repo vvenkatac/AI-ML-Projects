@@ -13,7 +13,7 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
       * Distribution of BMI of Female with # Children
       
 ### 2. Classification techniques for Customer Loan Data Segmentation
-* Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
+* Covers EDA, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
 
     * **Project link:** [Customer Loan Data Segmentation](https://github.com/vvenkatac/AI-ML-Projects/tree/main/Bank%20Customer%20Data%20Classificiation)
     
@@ -23,14 +23,17 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
          ![](Images_Main/SL_Image.png)
          
 ### 3. Classification and Ensemble techniques for Customer Term Deposit prediction
-* Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
+* Covers Logistic regression, Naive Bayes classifiers, SVM, K-NN classification, Meta Classifier, Random Forest, Bagging, AdaBoosting, Gradient Boosting, Model Comparison 
 
-    * **Project link:** [Ensemble Techniques](https://github.com/vvenkatac/AI-ML-Projects/tree/main/03_Ensemble_Techniques)
+    * **Project link:** [Parkinson Disease Screening](https://github.com/vvenkatac/AI-ML-Projects/tree/main/Parkinsons%20Disease%20Screening)
     
-         * Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
+         * Leveraged Patient Voice Data Measurements to screen for Parkinson Disease and classify accordingly.  Different classification algorithms such as  Logistic Regression, Naive Bayes, SVM, k-NN were used. A Meta Classifier was trained with the class labels predicted by the base models to improve upon the classification accuracy. Ensemble techniques like Random forest, Bagging and Bossting techniques were used to further improve the classification results.
          * ***Decision Tree*** 
          * ***SVM*** 
          * ***Metaclassifier Technique*** 
+         * ***Random Forest
+         * ***AdaBoosting
+         * ***Gradient Boosting
          * ***Model Accuracy Scores Comparison*** <br>
          ![](Images_Main/Ensemble_Image.PNG)
          
