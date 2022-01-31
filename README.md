@@ -15,7 +15,7 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
 ### 2. Classification techniques for Customer Loan Data Segmentation
 * Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
 
-    * **Project link:** [Supervised Machine Learning](https://github.com/vvenkatac/AI-ML-Projects/tree/main/02_Supervised%20Machine%20Learning)
+    * **Project link:** [Customer Loan Data Segmentation](https://github.com/vvenkatac/AI-ML-Projects/tree/main/Bank%20Customer%20Data%20Classificiation)
     
          *Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select   the best performing one.
          * ***Personal Loan vs Income***
