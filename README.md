@@ -4,7 +4,7 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
 ### 1. Data Visualization of Customer health records
 * Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
 
-    * **Project link:** [Applied Stats](https://github.com/vvenkatac/AI-ML-Projects/tree/main/01_Applied_Stats)  
+    * **Project link:** [Health Insurance Data Visualization](https://github.com/vvenkatac/AI-ML-Projects/tree/main/Customer%20Health%20Insurance%20Analaysis)  
 
       * This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical     evidence to make valuable decisions of insurance business like charges for health insurance.
       * 3Ms and Distribution of BMI
