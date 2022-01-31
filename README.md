@@ -27,7 +27,7 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
 
     * **Project link:** [Parkinson Disease Screening](https://github.com/vvenkatac/AI-ML-Projects/tree/main/Parkinsons%20Disease%20Screening)
     
-         * Leveraged Patient Voice Data Measurements to screen for Parkinson Disease and classify accordingly.  Different classification algorithms such as  Logistic Regression, Naive Bayes, SVM, k-NN were used. A Meta Classifier was trained with the class labels predicted by the base models to improve upon the classification accuracy. Ensemble techniques like Random forest, Bagging and Bossting techniques were used to further improve the classification results.
+    * Leveraged Patient Voice Data Measurements to screen for Parkinson Disease and classify accordingly.  Different classification algorithms such as  Logistic Regression, Naive Bayes, SVM, k-NN were used. A Meta Classifier was trained with the class labels predicted by the base models to improve upon the classification accuracy. Ensemble techniques like Random forest, Bagging and Bossting techniques were used to further improve the classification results.
          * ***Decision Tree*** 
          * ***SVM*** 
          * ***Metaclassifier Technique*** 
