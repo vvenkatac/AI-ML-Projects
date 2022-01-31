@@ -22,7 +22,7 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
          * ***Model Accuracy Scores Comparison*** <br>
          ![](Images_Main/SL_Image.png)
          
-### 3. Classification and Ensemble techniques for Customer Term Deposit prediction
+### 3. Parkinsons Disease Screening
 * Covers Logistic regression, Naive Bayes classifiers, SVM, K-NN classification, Meta Classifier, Random Forest, Bagging, AdaBoosting, Gradient Boosting, Model Comparison 
 
     * **Project link:** [Parkinson Disease Screening](https://github.com/vvenkatac/AI-ML-Projects/tree/main/Parkinsons%20Disease%20Screening)
@@ -31,9 +31,9 @@ Projects completed in Artificial Intelligence and Machine Learning undertaken as
          * ***Decision Tree*** 
          * ***SVM*** 
          * ***Metaclassifier Technique*** 
-         * ***Random Forest
-         * ***AdaBoosting
-         * ***Gradient Boosting
+         * ***Random Forest***
+         * ***AdaBoosting***
+         * ***Gradient Boosting***
          * ***Model Accuracy Scores Comparison*** <br>
          ![](Images_Main/Ensemble_Image.PNG)
          
